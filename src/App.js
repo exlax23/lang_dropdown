@@ -1,5 +1,4 @@
 import './App.css';
-import { useTranslation } from 'react-i18next';
 import Navbar from './components/Navbar';
 import Blocktext from './components/Blocktext';
 
